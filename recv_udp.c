@@ -14,7 +14,7 @@
 void printsin(struct sockaddr_in *sin, char *pname, char* msg){
   printf("%s\n", pname );
   printf("%s", msg);
-  printf("%d", sin->sin_family);
+ // printf("%d", sin->sin_family);
   printf(" ");
   printf("ip= %s port= %d\n", inet_ntoa(sin->sin_addr) ,sin->sin_port );
 
