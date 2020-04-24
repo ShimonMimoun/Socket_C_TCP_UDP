@@ -1,6 +1,6 @@
 # Socket_C_TCP_UDP
 
-- Conncect Socket C Use Tcp or Udp Protocol
+- Send msg  between two pc , use socket C Use Tcp or Udp Protocol.
 
 
 # Build 
